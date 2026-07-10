@@ -19,7 +19,8 @@ Create realtime data from chatGpt
 5.features Highlights
 The best dashboard explanation format. Buisness Problem , Goal of Dashboard , Walk through of key visuals (briefly)
 
-6. Screenshot
+
+6. Screenshot/Demo
 .https://github.com/lokesh7com/HospitalManagement/blob/main/DashboardScreenshot.png
 
 
