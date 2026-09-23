@@ -264,19 +264,7 @@ Financial analysis includes:
 
 ![Hospital Management Dashboard](DashboardScreenshot.png)
 
----
 
-# 📷 Dashboard Preview for Sql
-
-!
-![Hospital Management Dashboard](Sql.png)
-
----
-
-# 📷 Dashboard Preview for Python
-
-!
-![Hospital Management Dashboard](Python.png)
 
 
 
@@ -383,17 +371,19 @@ Possible improvements include:
 ---
 
 📷 Dashboard Preview
-Power BI Hospital Management Dashboard
+---
 
-https://github.com/lokesh7com/Hospital-Management-Project/blob/main/DashboardScreenshot.png
+# 📷 Preview of Sql
 
-🐍 Python Analysis Preview
 
-https://github.com/lokesh7com/Hospital-Management-Project/blob/main/Python.png
+![Hospital Management Dashboard](Sql.png)
 
-🗄️ SQL Analysis Preview
+---
 
-https://github.com/lokesh7com/Hospital-Management-Project/blob/main/Sql.png
+# 📷 Preview of Python
+
+
+![Hospital Management Dashboard](Python.png)
 
 # 👨‍💻 Author
 
