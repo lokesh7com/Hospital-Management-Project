@@ -276,7 +276,7 @@ Financial analysis includes:
 # 📷 Dashboard Preview
 
 !
-![Hospital Management Dashboard](python.png)
+![Hospital Management Dashboard](Python.png)
 
 
 
