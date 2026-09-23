@@ -266,14 +266,14 @@ Financial analysis includes:
 
 ---
 
-# 📷 Dashboard Preview
+# 📷 Dashboard Preview for Sql
 
 !
-![Hospital Management Dashboard](sql.png)
+![Hospital Management Dashboard](Sql.png)
 
 ---
 
-# 📷 Dashboard Preview
+# 📷 Dashboard Preview for Python
 
 !
 ![Hospital Management Dashboard](Python.png)
